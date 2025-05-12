@@ -100,3 +100,15 @@ Before starting this lab, make sure you have:
 
 <img src="https://github.com/1109akshatverma/aws-ec2-lab-guide/blob/main/Images/4.%20B.png?raw=true" width="950" />
 
+---
+
+## AWS EC2 Documentation
+
+You can read the official documentation here:  
+[Amazon EC2 User Guide](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html)
+
+---
+
+## Conclusion
+
+You’ve now successfully launched an EC2 instance using the AWS Console. You can repeat this process to launch more instances, connect via SSH, and explore advanced features like Elastic IPs, security groups, or load balancers.
